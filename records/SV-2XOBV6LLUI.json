@@ -1,0 +1,34 @@
+{
+  "code": "SV-2XOBV6LLUI",
+  "status": "active",
+  "author_id": 1005729621,
+  "author_username": "TShiller",
+  "timestamps": {
+    "issued_at": "2025-12-27 | 16:51:33Z"
+  },
+  "message": {
+    "chat_id": 1005729621,
+    "message_id": 1937,
+    "thread_id": null,
+    "link": "https://t.me/TShiller/1937",
+    "content_sha256": "d5dc1af96ba26adf018613b2375cee6c1f18f040732b1b3ded59b92384610d92",
+    "attachments_sha256": "photo::101845:a2e773c49be2bc6785d096523537fd61cd01864b29f73e5515f6136edf8b9257",
+    "entities_sha256": "9106fc362d291d04c524f16414424c19a10fe4ee6fa3f094c2c6e0a0cd93d4dd"
+  },
+  "log": {
+    "chat_id": -1002995201100,
+    "message_id": 713,
+    "link": "https://t.me/c/2995201100/713"
+  },
+  "signature": {
+    "version": "v3",
+    "algo": "hmac",
+    "value": "f3334438517fa599831aa497ceab626a16409ef356bbb30b507736501ace9838"
+  },
+  "sig_alg": "hmac",
+  "sig_ver": 3,
+  "signature_value": "f3334438517fa599831aa497ceab626a16409ef356bbb30b507736501ace9838",
+  "message_link": "https://t.me/TShiller/1937",
+  "content_sha256": "d5dc1af96ba26adf018613b2375cee6c1f18f040732b1b3ded59b92384610d92",
+  "attachments_sha256": "photo::101845:a2e773c49be2bc6785d096523537fd61cd01864b29f73e5515f6136edf8b9257"
+}

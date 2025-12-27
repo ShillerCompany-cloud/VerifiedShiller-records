@@ -1,0 +1,58 @@
+[
+  {
+    "code": "SV-2XOBV6LLUI",
+    "platform": "Telegram",
+    "status": "active",
+    "author_id": 1005729621,
+    "author_username": "TShiller",
+    "timestamp": "2025-12-27 | 16:51:33Z",
+    "message_link": "https://t.me/TShiller/1937",
+    "content_sha256": "d5dc1af96ba26adf018613b2375cee6c1f18f040732b1b3ded59b92384610d92",
+    "attachments_sha256": "photo::101845:a2e773c49be2bc6785d096523537fd61cd01864b29f73e5515f6136edf8b9257",
+    "log_chat_id": -1002995201100,
+    "log_message_id": 713,
+    "sig_alg": "hmac"
+  },
+  {
+    "code": "SV-SEOU6TMZOE",
+    "platform": "Telegram",
+    "status": "active",
+    "author_id": 1005729621,
+    "author_username": "TShiller",
+    "timestamp": "2025-12-27 | 10:12:39Z",
+    "message_link": "https://t.me/TShiller/1973",
+    "content_sha256": "911d4f4d9971a2dd04e432ad32bf4b9ffe9a44158d9852f337be2417c835f983",
+    "attachments_sha256": "",
+    "log_chat_id": -1002995201100,
+    "log_message_id": 700,
+    "sig_alg": "ed25519"
+  },
+  {
+    "code": "SV-SWYEYEE63Y",
+    "platform": "Telegram",
+    "status": "active",
+    "author_id": 1005729621,
+    "author_username": "TShiller",
+    "timestamp": "2025-12-27 | 11:12:11Z",
+    "message_link": "https://t.me/TShiller/1980",
+    "content_sha256": "95b04c109edec569203b405132ba5193a06702e56bfee99eded56fc3c15d27bb",
+    "attachments_sha256": "",
+    "log_chat_id": -1002995201100,
+    "log_message_id": 704,
+    "sig_alg": "ed25519"
+  },
+  {
+    "code": "SV-DTWKVIFYME",
+    "platform": "Telegram",
+    "status": "active",
+    "author_id": 1005729621,
+    "author_username": "TShiller",
+    "timestamp": "2025-12-27 | 15:40:40Z",
+    "message_link": "https://t.me/TShiller/1986",
+    "content_sha256": "1cecaaa0b861ed8c392ab89f2ce650cfad2df5b385c5d6ab5bd2005491b26cce",
+    "attachments_sha256": "",
+    "log_chat_id": -1002995201100,
+    "log_message_id": 707,
+    "sig_alg": "ed25519"
+  }
+]
