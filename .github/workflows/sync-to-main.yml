@@ -1,0 +1,36 @@
+name: Sync records -> VerifiedShiller (direct push)
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout records repo
+        uses: actions/checkout@v4
+
+      - name: Checkout target repo
+        uses: actions/checkout@v4
+        with:
+          repository: ShillerCompany-cloud/VerifiedShiller
+          token: ${{ secrets.MAIN_REPO_PAT }}
+          path: target
+
+      - name: Copy records into target/records
+        run: |
+          mkdir -p target/records
+          rsync -a --delete --exclude='.git' ./records/ target/records/
+
+      - name: Commit & push changes to target
+        run: |
+          cd target
+          git config user.name "github-actions[bot]"
+          git config user.email "actions@github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add records
+            git commit -m "Sync records from VerifiedShiller-records" || true
+            git push origin main
+          else
+            echo "No changes to push"
+          fi
