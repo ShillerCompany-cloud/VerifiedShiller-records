@@ -1,0 +1,34 @@
+{
+  "code": "SV-D3GYLPSORI",
+  "status": "active",
+  "author_id": 1005729621,
+  "author_username": "TShiller",
+  "timestamps": {
+    "issued_at": "2025-12-28 | 03:46:50Z"
+  },
+  "message": {
+    "chat_id": 1005729621,
+    "message_id": 2038,
+    "thread_id": null,
+    "link": "https://t.me/TShiller/2038",
+    "content_sha256": "1ecd85be4e8abf3096e21ffa99bd0d2934776c076e0960fe14c3ee880534e929",
+    "attachments_sha256": "",
+    "entities_sha256": ""
+  },
+  "log": {
+    "chat_id": -1002995201100,
+    "message_id": 747,
+    "link": "https://t.me/c/2995201100/747"
+  },
+  "signature": {
+    "version": "v3",
+    "algo": "hmac",
+    "value": "3ad5839fe37960c14bcac4a86357fc5a06344f7bce9a109336f02d8adc1e2404"
+  },
+  "sig_alg": "hmac",
+  "sig_ver": 3,
+  "signature_value": "3ad5839fe37960c14bcac4a86357fc5a06344f7bce9a109336f02d8adc1e2404",
+  "message_link": "https://t.me/TShiller/2038",
+  "content_sha256": "1ecd85be4e8abf3096e21ffa99bd0d2934776c076e0960fe14c3ee880534e929",
+  "attachments_sha256": ""
+}
