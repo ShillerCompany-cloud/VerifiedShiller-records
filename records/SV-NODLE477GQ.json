@@ -1,0 +1,34 @@
+{
+  "code": "SV-NODLE477GQ",
+  "status": "active",
+  "author_id": 1005729621,
+  "author_username": "TShiller",
+  "timestamps": {
+    "issued_at": "2025-12-28 | 02:14:06Z"
+  },
+  "message": {
+    "chat_id": 1005729621,
+    "message_id": 2010,
+    "thread_id": null,
+    "link": "https://t.me/TShiller/2010",
+    "content_sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+    "attachments_sha256": "",
+    "entities_sha256": ""
+  },
+  "log": {
+    "chat_id": -1002995201100,
+    "message_id": 723,
+    "link": "https://t.me/c/2995201100/723"
+  },
+  "signature": {
+    "version": "v3",
+    "algo": "hmac",
+    "value": "65065e2c87dc619573a3cba54abdf5b5179b7e81c1d7e1941950dd006c115ac3"
+  },
+  "sig_alg": "hmac",
+  "sig_ver": 3,
+  "signature_value": "65065e2c87dc619573a3cba54abdf5b5179b7e81c1d7e1941950dd006c115ac3",
+  "message_link": "https://t.me/TShiller/2010",
+  "content_sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+  "attachments_sha256": ""
+}
