@@ -1,0 +1,34 @@
+{
+  "code": "SV-YWEZI4OUTE",
+  "status": "active",
+  "author_id": 1005729621,
+  "author_username": "TShiller",
+  "timestamps": {
+    "issued_at": "2025-12-28 | 03:55:12Z"
+  },
+  "message": {
+    "chat_id": 1005729621,
+    "message_id": 2044,
+    "thread_id": null,
+    "link": "https://t.me/TShiller/2044",
+    "content_sha256": "c5899471d499600d6185c89c96a1398621b09f58da2edf205cab0a865d7e396e",
+    "attachments_sha256": "",
+    "entities_sha256": ""
+  },
+  "log": {
+    "chat_id": -1002995201100,
+    "message_id": 751,
+    "link": "https://t.me/c/2995201100/751"
+  },
+  "signature": {
+    "version": "v3",
+    "algo": "hmac",
+    "value": "cc9b03772d7dc216bc38e8269ebe0024fce70ebcb24021183ac80bf3f4f5a190"
+  },
+  "sig_alg": "hmac",
+  "sig_ver": 3,
+  "signature_value": "cc9b03772d7dc216bc38e8269ebe0024fce70ebcb24021183ac80bf3f4f5a190",
+  "message_link": "https://t.me/TShiller/2044",
+  "content_sha256": "c5899471d499600d6185c89c96a1398621b09f58da2edf205cab0a865d7e396e",
+  "attachments_sha256": ""
+}
