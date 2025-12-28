@@ -1,0 +1,34 @@
+{
+  "code": "SV-2XOBV6LLUI",
+  "status": "active",
+  "author_id": 1005729621,
+  "author_username": "TShiller",
+  "timestamps": {
+    "issued_at": "2025-12-28 | 02:45:33Z"
+  },
+  "message": {
+    "chat_id": -1001701925584,
+    "message_id": 35733,
+    "thread_id": 7,
+    "link": "https://t.me/re_zero_ram_rem/35733",
+    "content_sha256": "d5dc1af96ba26adf018613b2375cee6c1f18f040732b1b3ded59b92384610d92",
+    "attachments_sha256": "photo::101845:a2e773c49be2bc6785d096523537fd61cd01864b29f73e5515f6136edf8b9257",
+    "entities_sha256": "9106fc362d291d04c524f16414424c19a10fe4ee6fa3f094c2c6e0a0cd93d4dd"
+  },
+  "log": {
+    "chat_id": -1002995201100,
+    "message_id": 729,
+    "link": "https://t.me/c/2995201100/729"
+  },
+  "signature": {
+    "version": "v3",
+    "algo": "hmac",
+    "value": "434f2362aa4107da2a6bd8d7b153d101450ea53171e4a172b3e607ca0f7e46a2"
+  },
+  "sig_alg": "hmac",
+  "sig_ver": 3,
+  "signature_value": "434f2362aa4107da2a6bd8d7b153d101450ea53171e4a172b3e607ca0f7e46a2",
+  "message_link": "https://t.me/re_zero_ram_rem/35733",
+  "content_sha256": "d5dc1af96ba26adf018613b2375cee6c1f18f040732b1b3ded59b92384610d92",
+  "attachments_sha256": "photo::101845:a2e773c49be2bc6785d096523537fd61cd01864b29f73e5515f6136edf8b9257"
+}
