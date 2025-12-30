@@ -1,0 +1,34 @@
+{
+  "code": "SV-RI5T77LYVY",
+  "status": "active",
+  "author_id": 1005729621,
+  "author_username": "TShiller",
+  "timestamps": {
+    "issued_at": "2025-12-30 | 20:22:18Z"
+  },
+  "message": {
+    "chat_id": 1005729621,
+    "message_id": 2055,
+    "thread_id": null,
+    "link": "https://t.me/TShiller/2055",
+    "content_sha256": "8a3b3ffd78ae8d11641d890bf8e394f5b91489bfd220a77da1d7a142bf87b073",
+    "attachments_sha256": "",
+    "entities_sha256": ""
+  },
+  "log": {
+    "chat_id": -1002995201100,
+    "message_id": 759,
+    "link": "https://t.me/c/2995201100/759"
+  },
+  "signature": {
+    "version": "v3",
+    "algo": "hmac",
+    "value": "249f9b745cc17c614cb45694d55f6498dd35b0081527bb025b403b7068311c08"
+  },
+  "sig_alg": "hmac",
+  "sig_ver": 3,
+  "signature_value": "249f9b745cc17c614cb45694d55f6498dd35b0081527bb025b403b7068311c08",
+  "message_link": "https://t.me/TShiller/2055",
+  "content_sha256": "8a3b3ffd78ae8d11641d890bf8e394f5b91489bfd220a77da1d7a142bf87b073",
+  "attachments_sha256": ""
+}
